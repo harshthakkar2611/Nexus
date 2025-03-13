@@ -12,7 +12,7 @@ Step 1: Launch Ubuntu VM (24.04), t2.large, EBS: 28GB
 Open the below ports (optional)
 25, 30000-100000, 80, 443, 587, 22, 6443, 30000-32767, 465, 27017
 
-Step 2: Connect to the VM using MobaXTerm
+Step 2: Connect to the VM using Terminal.
 
 Step 3: Lets setup the Jenkins
 $ sudo apt update
